@@ -5,7 +5,7 @@ for the course **UCS654**.
 
 _Submitted by:_  
 **Dhruv Kamboj (102303645)**  
-**Section:** 3C45  
+**Group:** 3C45  
 
 ---
 

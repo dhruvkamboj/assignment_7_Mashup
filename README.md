@@ -121,6 +121,23 @@ This application is hosted on the **free tier of Render**.
 
 ---
 
-## 📂 Project Structure
+## 🧠 Observations and Insights
+
+- The mashup generation process can be fully automated using Python.
+- Multimedia libraries simplify complex audio processing tasks.
+- A web interface makes the system accessible to non-technical users.
+- Cloud deployment enables remote access and automation.
+- The free hosting tier introduces startup delays, but the system functions correctly after activation.
+
+---
+
+## 📝 Conclusion
+
+This project demonstrates how **Python-based multimedia processing** and **web technologies** can be combined to create an automated mashup generator.
+
+The command-line program efficiently handles the core tasks of downloading, trimming, and merging audio, while the web-based interface provides a convenient way for users to generate mashups without technical knowledge.
+
+The successful deployment of the application on a cloud platform further shows how such tools can be made accessible remotely, making the system practical, scalable, and user-friendly.
+
 
 

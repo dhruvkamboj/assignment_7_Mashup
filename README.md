@@ -63,6 +63,64 @@ A Python script that accepts input parameters and generates a mashup locally.
 ```bash
 python <rollnumber>.py <SingerName> <NumberOfVideos> <AudioDuration> <OutputFileName>
 ```
+---
 
-```bash
-python <rollnumber>.py <SingerName> <NumberOfVideos> <AudioDuration> <OutputFileName>
+## 🌐 Program 2 – Web-Based Mashup Service
+
+A **Flask-based web application** that allows users to generate mashups through a simple interface.
+
+### User Inputs
+
+- Singer name
+- Number of videos
+- Duration of each clip
+- Email address
+
+### Output
+
+- Mashup generated automatically
+- Sent as a **ZIP file via email**
+
+---
+
+## 🔗 Live Web Application
+
+**Deployed on Render:**  
+https://mashup-web-biiq.onrender.com
+
+### ⚠️ Note on Free Render Hosting
+
+This application is hosted on the **free tier of Render**.
+
+- The service goes to sleep after inactivity.
+- The first request may take **30–60 seconds** to load.
+- After waking up, the app works normally.
+
+---
+
+## 🖥 Web Interface Screenshot
+
+![Mashup Web Interface](webpage_screenshot.png)
+
+---
+
+## 🛠 Technologies Used
+
+### Backend
+- Python
+- Flask
+
+### Media Processing
+- yt-dlp (YouTube video downloading)
+- moviepy (video-to-audio conversion)
+- pydub (audio trimming and merging)
+- FFmpeg (audio/video processing engine)
+
+### Deployment
+- Render (cloud hosting platform)
+
+---
+
+## 📂 Project Structure
+
+

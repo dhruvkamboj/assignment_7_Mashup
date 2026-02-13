@@ -1,4 +1,4 @@
-# 🎵 YouTube Mashup Generator 🎧✨
+# 🎵 Mashup Generator 🎧✨
 
 _This project is submitted as part of_ **Assignment – Mashup**  
 for the course **UCS654**.
@@ -11,7 +11,7 @@ _Submitted by:_
 
 ## 🎯 Objective
 
-The objective of this project is to design and implement a **YouTube Mashup Generator** that automatically collects songs of a selected singer, processes the audio, and generates a combined mashup file.
+The objective of this project is to design and implement a **Mashup Generator** that automatically collects songs of a selected singer, processes the audio, and generates a combined mashup file.
 
 The system is implemented in two parts:
 
